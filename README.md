@@ -25,7 +25,7 @@
                `)QqbhopXa8#kkLr[|{v(
                  IxQaodmpdpmJ\]fr)x}         - GitHub Stats -------------------------------------
                   {UwwZmqZQn[?nCuxr[         Repos: ................................ 8 (3 public)
-               ^]nmaoaodCz)+-nOQUzj[         Stars: ......................... 6 earned | 36 given
+               ^]nmaoaodCz)+-nOQUzj[         Stars: ......................... 6 earned | 32 given
                ;<vbhb0v),l>?fQwZQYx[`        Commits: ............. 1,051 last 12mo (737 private)
                . -f[<"   <[tzLwwZCc[;:       PRs: ................................. 171 last 12mo
                        I]}(juJmpqOX)-~`      Social: ................ 25 followers | 20 following
