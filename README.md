@@ -16,19 +16,19 @@
    '          \h$nIwLX\(vqp[wMobZc`d$%8c`    - Building -----------------------------------------
              .X@$$L+]fvrjcno$%#bZJtm08BU]    LabEpi: ..................... epidemiology education
               n%qroa  _fUd$$$$&omYrmu_kC}    Altman: ............ applied statistics for research
-               xu?+mc|rpB$$$$$@MqXc8$}-p     Gume: ............... open reading tracker, AGPL-3.0
-               ' '_\COCp8$$$$$BoZYC0Zxd(
-                  . ^)JaB$$$$$Wb0cZ*WbL      - Contact ------------------------------------------
-               !{nOL[ .u8$$$@8owLx/@$k`      Email: .................... gabriel.oligar@gmail.com
-               !_>i[)  {&$$$%Wb0c/'1\        Instagram: ............................ @olegas4real
-               "]jx(~<;rW@@8#kQu\{Yj         Web: .................................... labepi.com
-               `)QqbhopXa8#kkLr[|{v(
-                 IxQaodmpdpmJ\]fr)x}         - GitHub Stats -------------------------------------
-                  {UwwZmqZQn[?nCuxr[         Repos: ................................ 8 (3 public)
-               ^]nmaoaodCz)+-nOQUzj[         Stars: ......................... 6 earned | 32 given
-               ;<vbhb0v),l>?fQwZQYx[`        Commits: ............. 1,051 last 12mo (737 private)
-               . -f[<"   <[tzLwwZCc[;:       PRs: ................................. 171 last 12mo
-                       I]}(juJmpqOX)-~`      Social: ................ 25 followers | 20 following
+               xu?+mc|rpB$$$$$@MqXc8$}-p
+               ' '_\COCp8$$$$$BoZYC0Zxd(     - Contact ------------------------------------------
+                  . ^)JaB$$$$$Wb0cZ*WbL      Email: .................... gabriel.oligar@gmail.com
+               !{nOL[ .u8$$$@8owLx/@$k`      Instagram: ............................ @olegas4real
+               !_>i[)  {&$$$%Wb0c/'1\        Web: .................................... labepi.com
+               "]jx(~<;rW@@8#kQu\{Yj
+               `)QqbhopXa8#kkLr[|{v(         - GitHub Stats -------------------------------------
+                 IxQaodmpdpmJ\]fr)x}         Repos: ................................ 8 (3 public)
+                  {UwwZmqZQn[?nCuxr[         Stars: ......................... 6 earned | 32 given
+               ^]nmaoaodCz)+-nOQUzj[         Commits: ............. 1,051 last 12mo (737 private)
+               ;<vbhb0v),l>?fQwZQYx[`        PRs: ................................. 171 last 12mo
+               . -f[<"   <[tzLwwZCc[;:       Social: ................ 25 followers | 20 following
+                       I]}(juJmpqOX)-~`
                      I]()11fvCOppwJc]
                    `i]/f)1(jcU0wdkw1
                   ,l+{|}]{|rvXQqhL!
@@ -49,10 +49,6 @@ pós-graduandos e pesquisadores.
 **[Altman](https://altman.labepi.com)** · o braço de estatística aplicada do
 LabEpi: guias, artigos e um curso sobre o que fazer com os dados depois que a
 pesquisa acaba.
-
-**[Gume](https://github.com/olegas4real/gume-club)** · registro de leitura
-aberto, AGPL-3.0, auto-hospedável. A nota é uma palavra, não uma escala de
-estrelas. Não há instância hospedada: quem roda o Gume, roda o seu.
 
 ### Como eu trabalho com agentes
 
