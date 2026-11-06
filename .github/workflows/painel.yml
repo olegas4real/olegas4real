@@ -1,0 +1,45 @@
+name: painel
+
+# Os números do painel envelhecem sozinhos: uptime muda todo dia, commits e
+# seguidores mudam toda semana. Isto reescreve o bloco e commita se mudou.
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # segunda, 09:00 UTC (06:00 em São Paulo)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    env:
+      # PAT clássico do Gabriel, escopo read:user e só ele. O GITHUB_TOKEN
+      # padrão não serve: ele autentica como o bot, e o 'viewer' da consulta
+      # viria da conta errada com os commits privados zerados.
+      GH_PANEL_TOKEN: ${{ secrets.GH_PANEL_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Conferir o segredo
+        run: |
+          if [ -z "$GH_PANEL_TOKEN" ]; then
+            echo "::error::Falta o segredo GH_PANEL_TOKEN. Crie um PAT clássico com escopo read:user em https://github.com/settings/tokens e salve em Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - name: Regerar o painel
+        run: python3 scripts/painel.py
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "painel sem mudança, nada a commitar"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qam "Atualiza os números do painel"
+          git push

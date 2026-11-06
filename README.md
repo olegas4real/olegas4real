@@ -1,3 +1,4 @@
+<!-- painel:inicio -->
 ```
                                              gabriel@olegario
                                              ----------------------------------------------------
@@ -24,10 +25,10 @@
                "]jx(~<;rW@@8#kQu\{Yj
                `)QqbhopXa8#kkLr[|{v(         - GitHub Stats -------------------------------------
                  IxQaodmpdpmJ\]fr)x}         Repos: ................................ 8 (3 public)
-                  {UwwZmqZQn[?nCuxr[         Stars: ......................... 6 earned | 32 given
-               ^]nmaoaodCz)+-nOQUzj[         Commits: ............. 1,051 last 12mo (737 private)
+                  {UwwZmqZQn[?nCuxr[         Stars: .................................... 6 earned
+               ^]nmaoaodCz)+-nOQUzj[         Commits: ............. 1,059 last 12mo (742 private)
                ;<vbhb0v),l>?fQwZQYx[`        PRs: ................................. 171 last 12mo
-               . -f[<"   <[tzLwwZCc[;:       Social: ................ 25 followers | 20 following
+               . -f[<"   <[tzLwwZCc[;:       Social: ................ 25 followers | 16 following
                        I]}(juJmpqOX)-~`
                      I]()11fvCOppwJc]
                    `i]/f)1(jcU0wdkw1
@@ -36,6 +37,7 @@
                     I!";+]|t/-
                        ^>i:
 ```
+<!-- painel:fim -->
 
 Trabalho na interseção de estratégia, dados e produto, em São Paulo, e construo
 a maior parte das minhas ferramentas junto com agentes de IA.
